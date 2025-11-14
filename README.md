@@ -41,5 +41,5 @@
 
 ## 🌐 Social links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/%D0%B5%D1%80%D1%85%D0%B0%D0%BD-%D0%B5%D1%80%D0%BC%D0%B5%D0%BA%D2%B1%D0%BB%D1%8B-268451335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ))
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ermekuly_014)
