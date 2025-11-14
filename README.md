@@ -3,7 +3,7 @@
 💻 Frontend Developer (React · Next.js · JS)
 
 🌍 From Kazakhstan, Astana  
-🚀 I build web apps, APIs and full-stack projects
+🚀 I build web apps, APIs projects
 
 ---
 
