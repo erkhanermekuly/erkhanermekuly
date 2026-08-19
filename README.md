@@ -1,6 +1,6 @@
 # Hello, I'm Erkhan 👋
 
-💻 Frontend Developer (React · Next.js · JS)
+💻 Full-Stack Developer (Laravel · React · Python)
 
 🌍 From Kazakhstan, Astana  
 🚀 I build web apps, APIs projects
