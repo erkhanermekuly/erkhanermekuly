@@ -1,13 +1,13 @@
 # Hello, I'm Erkhan 👋
 
-💻 Full-Stack Developer (Laravel · React · Python)
+ Full-Stack Developer (Laravel · React · Python)
 
-🌍 From Kazakhstan, Astana  
-🚀 I build web apps, APIs projects
+ From Kazakhstan, Astana  
+ I build web apps, APIs projects
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 <!-- Frontend -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +32,7 @@
 ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=white)
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=erkhanermekuly&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkhanermekuly&layout=compact&theme=tokyonight)
