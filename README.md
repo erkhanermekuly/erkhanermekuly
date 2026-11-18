@@ -1,4 +1,4 @@
-# Hello, I'm Erkhan 👋
+# Hello, I'm Erkhan 
 
  Full-Stack Developer (Laravel · React · Python)
 
